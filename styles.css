@@ -91,14 +91,14 @@ a:hover{
 }
 .design{
     height: 180px;
-    width: 25%;
+    width: 180px;
     float: left;
     margin-right: 30px;
     margin-bottom: 0px;
 }
 .food{
     height: 150px;
-    width: 25%;
+    width: 150px;
     float: right;
     margin-left: 30px;
 }
@@ -125,7 +125,7 @@ button {
   }
   .contact-me{
     height: 200px;
-    margin: 70px 0px 70px 0px; 
+    margin: 70px 0px 250px 0px; 
   }
   .copyright{
     color: #EAF6F6;
